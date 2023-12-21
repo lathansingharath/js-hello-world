@@ -5,7 +5,7 @@ to the console (the panel on the right)
 */
 
 console.log("Hello Lance Taylor Hodge");
-console.log("Hello in world in 'quote'");
+
 
 
 /*  
