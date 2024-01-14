@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("My favorite game is 'Halo'");
+console.log("My favorite game is 'Halo' and World of Warcraft");
 
 
 
